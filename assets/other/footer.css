@@ -84,6 +84,7 @@
   align-items: center;
   justify-content: center;
   column-gap: 1rem;
+  flex-wrap: wrap;
 }
 
 .bottom-bar p,
@@ -106,6 +107,7 @@ h4 {
   align-items: center;
   justify-content: center;
   column-gap: 5px;
+  flex-wrap: wrap;
 }
 
 .bottom-bar .box .a {
